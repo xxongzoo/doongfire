@@ -1,8 +1,7 @@
 const OpenAI = require('openai');
 
 const openai = new OpenAI({
-    apiKey: "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",
-  });
+    apiKey: "".
 
   const serverless = require('serverless-http')
 
